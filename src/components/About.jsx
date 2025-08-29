@@ -8,7 +8,7 @@ export default function About() {
             <div className="flex-1">
                 <h2 className="text-4xl font-bold mb-6">About Me</h2>
                 <p className="text-gray-300 text-lg leading-relaxed">
-                    my name is mohammd 25 years old i have graguated from Al-Ahliyah Amman university i have bachelor degree in network and Information security and I have strong passion for learning web development and designing user interfaces.
+                    My name is Mohammd I have graguated from Al-Ahliyah Amman university i have bachelor degree in network and Information security and I have strong passion for learning web development and designing user interfaces.
                     I'm currently improving my skills in React, Redux, and Tailwind CSS, and I aim to build meaningful projects that reflect my love for technology. I enjoy spending time learning new things and taking on challenges that help me grow personally and professionally.
 
                 </p>
